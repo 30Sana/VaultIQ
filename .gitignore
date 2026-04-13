@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+chroma_db/
+uploads/
+*.egg-info/
+dist/
+.DS_Store
